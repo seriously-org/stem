@@ -154,11 +154,11 @@ footer{
     top: 45%;
   }
   .carousel-caption h1{
-    font-size: 20%;
+    font-size: 200%;
   }
   .carousel-caption h3{
     font-size: 110%;
-    font-weight: 400;
+    font-weight: 300;
     /* text-shadow: 1px 1px 10px #000; */
     padding-bottom: .2rem;
   }
@@ -190,11 +190,11 @@ footer{
     top: 45%;
   }
   .carousel-caption h1{
-    font-size: 100%;
+    font-size: 200%;
   }
   .carousel-caption h3{
     font-size: 110%;
-    font-weight: 400;
+    font-weight: 300;
     /* text-shadow: 1px 1px 10px #000; */
     padding-bottom: .2rem;
   }
