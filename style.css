@@ -174,8 +174,9 @@ footer{
     padding: 1.2rem;
   }
   .pic{
-    height: 90%;
-    width: 90%;
+    height: 75%;
+    width: 75%;
+    position: center;
   }
   #feedback{
     width: 100%;
